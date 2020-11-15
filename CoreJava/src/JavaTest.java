@@ -5,7 +5,7 @@ import java.util.List;
 This program takes a list of items
 K is the length of Sub array
  Step 1 : Then for each Sub array take the minimum item
- Stem 2: Accumulate all the items from step 1 and return
+ Step 2: Accumulate all the items from step 1 and return
          the maximum item of this accumulated list
 * */
 public class JavaTest {
